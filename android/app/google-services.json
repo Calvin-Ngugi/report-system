@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827793361392",
+    "firebase_url": "https://report-system-85ea3.firebaseio.com",
+    "project_id": "report-system-85ea3",
+    "storage_bucket": "report-system-85ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827793361392:android:da7b4b134cb16bb102b535",
+        "android_client_info": {
+          "package_name": "com.project.report_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827793361392-9kb3pmdpglsg03bgaq6to0pda49v2gt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzA1qYKXz1gO224N7ATznyT-bDamfNzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827793361392-9kb3pmdpglsg03bgaq6to0pda49v2gt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
